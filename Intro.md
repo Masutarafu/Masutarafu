@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FAROOK
-- 👀 I’m interested in Web development 
+- 👋 Hi, I’m Farook
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ologundudufob@gmail.com 
